@@ -1,0 +1,57 @@
+<div class="wrapper">
+  
+  <div class="small-box">
+    <div class="bg-text-blue">
+      <h3>Test</h3>
+    </div>
+  </div>
+
+  <div class="small-box">
+    <div class="bg-text-blue">
+      <h3>Test</h3>
+    </div>
+  </div>
+
+  <div class="large-box">
+    <div class="bg-text-large-green">
+      <h3>Test</h3>
+    </div>
+  </div>
+  
+  <div class="small-box">
+  </div>
+  
+  <div class="large-box">
+  </div>
+  
+  <div class="small-box">
+    <div class="bg-text-orange">
+      <h3>Test</h3>
+    </div>
+  </div>
+  
+  <div class="small-box">
+    <div class="bg-text-blue-fill">
+      <h3>Kontakt</h3>
+      <br>
+      <p>Telefon</p>
+      <br>
+      <p>999 999 99 99</p>
+    </div>
+  </div>
+  
+  <div class="small-box">
+  </div>
+  
+  <div class="small-box">
+    <div class="bg-text-green">
+      <h3>Test</h3>
+    </div>
+  </div>
+  
+  <div class="small-box">
+    <div class="bg-text-blue-top">
+      <h3>Test</h3>
+    </div>
+  </div>
+</div>
